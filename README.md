@@ -15,19 +15,19 @@ Loading the data and exploratory data analysis: <br/>
 <a href="https://imgur.com/A9juRZQ"><img src="https://i.imgur.com/A9juRZQ.jpg" alt="Storm Probability Calculation Steps" /></a>
 <br />
 <br />
-Loading the data and exploratory data analysis: <br/>
+Converting date to DateTime format: <br/>
 <a href="https://imgur.com/58dRg5q"><img src="https://i.imgur.com/58dRg5q.jpg" alt="Storm Probability Calculation Steps" /></a>
 <br />
 <br />
-Loading the data and exploratory data analysis: <br/>
+Probability Calculation: <br/>
 <a href="https://imgur.com/X2BXTD9"><img src="https://i.imgur.com/X2BXTD9.jpg" alt="Storm Probability Calculation Steps" /></a>
 <br />
 <br />
-Loading the data and exploratory data analysis: <br/>
+Calculation of storm-rates: <br/>
 <a href="https://imgur.com/sHyx8i5"><img src="https://i.imgur.com/sHyx8i5.jpg" alt="Storm Probability Calculation Steps" /></a>
 <br />
 <br />
-Loading the data and exploratory data analysis: <br/>
+Probability of a 'tropical' storm: <br/>
 <a href="https://imgur.com/PjfjyKH"><img src="https://i.imgur.com/PjfjyKH.jpg" alt="Storm Probability Calculation Steps" /></a>
 </p>
 
